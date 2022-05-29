@@ -77,8 +77,10 @@ plt.legend(loc=4)
 
 plt.show()
 
-
 ```
+<br/>
+<br/>
+<br/>
 
 ## Output:
 
